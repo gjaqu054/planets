@@ -5,4 +5,8 @@ cheeses
 And Tim Hortons apple donut timbits
 s 
 and killing unicorn babies
+<<<<<<< HEAD
 Apple donut timmbits and chocolate timbits are the worst
+=======
+Gab va venir au trois brasseurs ce soir, car Annick va brûler ses pétris et kidnapper son sac à dos sinon.
+>>>>>>> b690ce48dd213f86220619df35b3b61c5869eb39
